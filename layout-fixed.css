@@ -1,0 +1,49 @@
+/*
+Document : layout-fixed
+Created on : Aug 13, 2011, 12:12:09 AM
+Author : sylar
+Description:
+Purpose of the stylesheet follows.
+*/
+
+/*
+TODO customize this sample style
+Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+html, body{
+    margin-left: 10px;
+    margin-right: 10px;
+    min-height: 100%;
+    min-width: 960px;
+}
+
+
+#page-container {
+    width: 960 px;
+    margin: auto;
+}
+
+#main-nav{
+
+}
+
+#header{
+
+}
+
+#sidebar-a{
+
+}
+
+#content{
+
+}
+
+#footer{
+
+}
+
+.hidden{
+    display: none;
+}
